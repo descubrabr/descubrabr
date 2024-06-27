@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460913939723",
+    "project_id": "descubra-cc024",
+    "storage_bucket": "descubra-cc024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460913939723:android:8d2dd4e6389046f6d53e0e",
+        "android_client_info": {
+          "package_name": "www.descubra.app.br"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtBs9p41wNmdiar-LJTOeDlksar429To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
